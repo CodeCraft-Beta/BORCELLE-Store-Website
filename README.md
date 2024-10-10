@@ -23,7 +23,7 @@ Watch more Website Template in my Website.
 
 **GitHub** - https://github.com/CodeCraft-Beta
 
-**Website** - Coming Soon
+**Website Channel** - Coming Soon
 
 **Instagram** - Coming Soon
 
