@@ -1,9 +1,12 @@
 # BORCELLE Store Website
-Hello Everyone,
-My name is **Abdullah Zaheer**. 
-I am making this Website Template.
-You can Download it here or also on my Website.
-
+This is a Website of Store. I am make Following Section in this Website.
+**HOME**
+**SHOW**
+**CASE** 
+**ABOUT** 
+**COURSES** 
+**SHOP** 
+**CONTACT**
 
 **Live Demo** - https://codecraft-beta.github.io/Store-Website/
 
