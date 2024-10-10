@@ -23,13 +23,13 @@ Watch more Website Template in my Website.
 
 **GitHub** - https://github.com/CodeCraft-Beta
 
-**Website Channel** - Coming Soon
+**Website** - Coming Soon
 
 **Instagram** - Coming Soon
 
 **Telegram** - Coming Soon
 
-**Whatsapp** - Coming Soon
+**Whatsapp Channel** - Coming Soon
 
 **YouTube** - Coming Soon
 
