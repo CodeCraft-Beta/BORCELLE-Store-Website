@@ -7,12 +7,15 @@ This is a Website of Store. I am make Following Section in this Website.
 **COURSES** 
 **SHOP** 
 **CONTACT**
+Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Store-Website/
 
 # Join Us
 
 **GitHub** - https://github.com/CodeCraft-Beta
+
+**Website** - Coming Soon
 
 **Instagram** - Coming Soon
 
