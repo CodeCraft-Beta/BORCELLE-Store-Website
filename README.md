@@ -6,7 +6,8 @@ This is a Website of Store. I am make Following Section in this Website.
 **ABOUT** 
 **COURSES** 
 **SHOP** 
-**CONTACT**
+**CONTACT**.
+
 Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Store-Website/
