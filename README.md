@@ -23,6 +23,8 @@ Watch more Website Template in my Website.
 
 **GitHub** - https://github.com/CodeCraft-Beta
 
+**YouTube** - https://www.youtube.com/@codecraftchannal
+
 **Website** - Coming Soon
 
 **Instagram** - Coming Soon
@@ -31,7 +33,6 @@ Watch more Website Template in my Website.
 
 **Whatsapp Channel** - Coming Soon
 
-**YouTube** - Coming Soon
 
 # Introduction 
 Hello Everyone,
