@@ -17,7 +17,9 @@ This is a Website of Store. I am make Following Section in this Website.
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Store-Website/
+**Live Demo** - https://codecraft-beta.github.io/BORCELLE-Store-Website/
+
+**Website View** - https://designcraft.odoo.com/borcelle-store-website
 
 # CodeCraft-Beta
 
